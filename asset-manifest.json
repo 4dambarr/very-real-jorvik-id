@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/very-real-jorvik-id/static/css/main.e6c13ad2.css",
+    "main.js": "/very-real-jorvik-id/static/js/main.5fb24493.js",
+    "static/js/787.81c5a292.chunk.js": "/very-real-jorvik-id/static/js/787.81c5a292.chunk.js",
+    "static/media/home.PNG": "/very-real-jorvik-id/static/media/home.c0f0e21292240720b62c.PNG",
+    "static/media/real-id.jpg": "/very-real-jorvik-id/static/media/real-id.33a69eb1af788a2cd5dd.jpg",
+    "service-worker.js": "/very-real-jorvik-id/service-worker.js",
+    "index.html": "/very-real-jorvik-id/index.html",
+    "main.e6c13ad2.css.map": "/very-real-jorvik-id/static/css/main.e6c13ad2.css.map",
+    "main.5fb24493.js.map": "/very-real-jorvik-id/static/js/main.5fb24493.js.map",
+    "787.81c5a292.chunk.js.map": "/very-real-jorvik-id/static/js/787.81c5a292.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5fb24493.js"
+  ]
+}
