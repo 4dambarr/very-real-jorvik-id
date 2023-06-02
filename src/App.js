@@ -43,6 +43,7 @@ const NameHolder = styled.div`
   color: white;
   width: 60vw;
   background-color: #747474;
+  font-size: 24px;
 `
 
 const HomeScreenName = styled.div`
@@ -85,7 +86,7 @@ const CardNumber = styled.div`
   display: flex;
   position: absolute;
   top: 60.5vh;
-  height: 5vh;
+  height: 8vh;
   width: 100vw;
   background-color: #747474;
   justify-content: center;
